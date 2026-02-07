@@ -16,3 +16,5 @@ while True:
     if cv2.waitKey(1)== ord("a"):
             break
 vid_cap.release()
+
+#SHAWAIZ HASSAN
